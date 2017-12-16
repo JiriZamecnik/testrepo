@@ -8,7 +8,7 @@ public class Test {
 
 	public static void main(String[] args) {
 		System.out.println("Start.");
-		List<Integer> list = Arrays.asList(1, 2, 3, 5, 4, 8, 6, 7, -1, 2, 16, 11, 13, -15);
+		List<Integer> list = Arrays.asList(1, 2, 3, 5, 4, 8, 6, 7, -1, 2, 16, 11, 13, -15, 45);
 
 		System.out.println(list);
 
